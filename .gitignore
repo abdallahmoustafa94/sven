@@ -2,6 +2,7 @@
 .next/
 out/
 
+node_modules
 # Ignore the build cache
 .cache/
 
