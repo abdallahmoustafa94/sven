@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "/assets/img/house-service.jpg",
+    "title": "Wohnungsreinigung"
+  },
+  {
+    "icon": "/assets/img/office-service.jpg",
+    "title": "Büroreinigung"
+  },
+  {
+    "icon": "/assets/img/carpet-service.jpg",
+    "title": "Teppich- und Polsterreinigung"
+  },
+  {
+    "icon": "/assets/img/window-service.jpg",
+    "title": "Umzugs- und Endreinigung"
+  },
+  {
+    "icon": "/assets/img/movein-service.jpg",
+    "title": "Grundreinigung und Sonderreinigungen"
+  },
+  {
+    "icon": "/assets/img/deep-service.jpg",
+    "title": "Fensterreinigung"
+  }
+]
